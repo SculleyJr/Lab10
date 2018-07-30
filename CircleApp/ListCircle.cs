@@ -1,0 +1,7 @@
+﻿namespace CircleApp
+{
+    class ListCircle
+    {
+        
+    }
+}
